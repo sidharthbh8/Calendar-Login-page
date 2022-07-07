@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background: whitesmoke;
+    background: url(./b9.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
@@ -28,7 +28,7 @@ body{
     margin: 10px 5px;
     text-align: center;
     margin-bottom: 60px;
-    color: #101010;
+    color: #fffdd0;
     text-transform: uppercase;
     letter-spacing: 3px;
 
@@ -66,12 +66,12 @@ body{
 .term{
     margin-left: 70px;
     letter-spacing: 0.5px;
-    color: #101010;
+    color: #fffdd0;
 
 }
 .term a{
     text-decoration: none;
-    color: rgb(237, 226, 13);
+    color: royalblue;
 }
 button{
     margin-left: 70px;
@@ -89,7 +89,6 @@ button:hover{
     background-color:#0047AB ;
 }
 .logo{
-    color: white;
     position: absolute;
     display: flex;
     justify-content:end;
@@ -100,7 +99,7 @@ button:hover{
     width: 90vw;
     border-radius: 30px;
     text-align: end;
-    background-color: #2c2f35;
+    background-color: white;
     text-transform:uppercase;
     letter-spacing: 2px;
 }
